@@ -1,0 +1,11 @@
+.img{
+    background: url('../../img/backgroulogin2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 87%;
+    min-height: 950px;
+    width: 100%;
+}
